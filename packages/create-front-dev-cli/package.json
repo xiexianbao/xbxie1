@@ -1,0 +1,20 @@
+{
+  "name": "@xbxie1/create-front-dev-cli",
+  "version": "1.1.7",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "create-front-dev-cli": "./bin/index.js"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.5",
+    "@rollup/plugin-node-resolve": "^15.2.2",
+    "@xbxie1/front-dev-server": "^1.0.0",
+    "prompts": "^2.4.2",
+    "rollup": "^4.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
