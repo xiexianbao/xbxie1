@@ -37,7 +37,7 @@ await prompts({
     "dev": "devServer"
   },
   "devDependencies": {
-    "@xbxie1/front-dev-server": "^1.0.0"
+    "@xbxie1/front-dev-server": "^1.0.8"
   },
   "keywords": [],
   "author": "",
